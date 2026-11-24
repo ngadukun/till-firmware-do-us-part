@@ -1,5 +1,9 @@
 # Till Firmware Do Us Part
 
+[![make.fun · u-azazex-till-firmware-do-us-part-32172929](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
+[![rank](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/ngadukun/till-firmware-do-us-part/rank.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
+[![reward](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/ngadukun/till-firmware-do-us-part/reward.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-till-firmware-do-us-part-32172929)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bounty](https://img.shields.io/badge/bounty-make.fun-blue)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
 [![Python](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
